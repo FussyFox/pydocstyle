@@ -10,4 +10,4 @@ root_logger.addHandler(logging.StreamHandler(sys.stdout))
 
 
 def handle(*args, **kwargs):
-    CheckRun('PEP257', 'pydocstyle', '.')(*args, **kwargs)
+    CheckRun('pydocstyle', 'pydocstyle', '.')(*args, **kwargs)
