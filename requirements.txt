@@ -1,2 +1,2 @@
-git+https://github.com/LambdaLint/lintipy.git@checks#egg=lintipy
+lintipy==1.0.1
 pydocstyle==2.1.1
