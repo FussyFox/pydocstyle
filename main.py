@@ -9,5 +9,4 @@ root_logger.setLevel(logging.DEBUG)
 root_logger.addHandler(logging.StreamHandler(sys.stdout))
 
 
-def handle(*args, **kwargs):
-    CheckRun('pydocstyle', 'pydocstyle', '.')(*args, **kwargs)
+handle = CheckRun.as_handler('pydocstyle', 'pydocstyle', '.')
