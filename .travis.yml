@@ -24,4 +24,4 @@ jobs:
       secret_access_key:
         secure: gn4xmZ4mYZEKtW+4uGU5WRkW6QW5rJQ16PvTVXzCaiXp9i0jIakKyPdh7gC2BoLoxJI5+BZz0KhtyvDXVBtc2rzR47eo/mrGxDKNiMIMchFjwKuCeQvUrEcKeeeydXLRSHRtzNYMdzWScMycifhS8trkpcEsm9o8ybSts1bsA8mGBYy+ag5ZoxR28hPXH2h+vfe50gTaiXqpuCJI63z3c36DSkACtAIrpL99nC4Km7lZSO5Sa2T00fhlyZQrYPup4xdvc2UkN2vzMC1b1FgTlAdAbgH8I2ZDQNhYHqURvDhhx02oIfQ4DuTg2e7fRh27tk2hBfhOOoTx+raqtg9569SnRhS9Hly710g6uyxDAo6Z67JksfZ+Hp3MB8crc/tvEY5ViCzyhjTGxynFPXsqq9qUjp2NAnL9N9ZuGn8rznTlYVOSzTj53ZC4AG9OCg2ifPCGBMfw2fWjN3SiXtKlNdljcZ8KfSq3zn2anPnYwOQHQ0TvJ63vHkGVE/aMeu6le4zt2Es4/A46KzmmJykQ8/alLmg7Z6O6icOX1woxdfL7uBJKglGB7DaRQZJjRmtb5/4FODGi+/ICV/kldtiZrzDWeGdZZkkse6LZPIbZKwnznsgXcr9r54kI1FuZfRu1+lC5tvCGFO5DZrlOEZY8GI3gumiqMqcIlbn3e+1mXxg=
       on:
-        repo: LambdaLint/pydocstyle
+        repo: FussyFox/pydocstyle
