@@ -1,2 +1,2 @@
 lintipy==1.2.2
-pydocstyle==3.0.0
+pydocstyle==4.0.0
